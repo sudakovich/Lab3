@@ -1,0 +1,10 @@
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\Debug\MsgClientSharp.exe
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\Debug\MsgClientSharp.exe.config
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\Debug\MsgClientSharp.pdb
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\MsgClientSharp\obj\Debug\MsgClientSharp.Form1.resources
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\MsgClientSharp\obj\Debug\MsgClientSharp.Properties.Resources.resources
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\MsgClientSharp\obj\Debug\MsgClientSharp.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\MsgClientSharp\obj\Debug\MsgClientSharp.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\MsgClientSharp\obj\Debug\MsgClientSharp.exe
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\MsgClientSharp\obj\Debug\MsgClientSharp.pdb
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\MsgClientSharp\obj\Debug\MsgClientSharp.csprojAssemblyReference.cache

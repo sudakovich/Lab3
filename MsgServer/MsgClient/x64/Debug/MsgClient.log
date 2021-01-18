@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  MsgClient.cpp
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\MsgClient\MsgClient.cpp(107): warning C4715: HandlerRoutine: значение возвращается не при всех путях выполнения
+  MsgClient.vcxproj -> C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\x64\Debug\MsgClient.exe

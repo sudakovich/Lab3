@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  MsgDLL.cpp
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\MsgDLL\MsgDLL.cpp(53,30): error C2664: "BOOL CAsyncSocket::Connect(const SOCKADDR *,int)": невозможно преобразовать аргумент 1 из "const char [10]" в "LPCTSTR"
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\MsgDLL\MsgDLL.cpp(53,12): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxsock.h(144,7): message : см. объявление "CAsyncSocket::Connect"
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\MsgDLL\MsgDLL.cpp(63,30): error C2664: "BOOL CAsyncSocket::Connect(const SOCKADDR *,int)": невозможно преобразовать аргумент 1 из "const char [10]" в "LPCTSTR"
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\MsgDLL\MsgDLL.cpp(63,12): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxsock.h(144,7): message : см. объявление "CAsyncSocket::Connect"
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\MsgDLL\MsgDLL.cpp(73,30): error C2664: "BOOL CAsyncSocket::Connect(const SOCKADDR *,int)": невозможно преобразовать аргумент 1 из "const char [10]" в "LPCTSTR"
+C:\Users\Сергей\Desktop\tris_2020-master\MsgServer\MsgDLL\MsgDLL.cpp(73,12): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxsock.h(144,7): message : см. объявление "CAsyncSocket::Connect"
